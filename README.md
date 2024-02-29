@@ -1,5 +1,7 @@
 # Visualizations for "Asylum in America, by the Numbers"
 
+<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202024-01-23%2016.33.02%20-%20a%20waterfall%20with%20clear%20blue%20water%2C%2050%20mm%20photograph.png">
+
 ## Project Overview
 
 This project focuses on enhancing the narrative of "Asylum in America, by the Numbers" through the design and creation of three compelling visualizations. Each visualization aims to encapsulate key data points and trends highlighted in the article, providing readers with an immediate and impactful understanding of the facts presented. The visualizations cover the topics of illegal crossing apprehensions in 2022, historical data on total asylum applications split by status, and immigration patterns concerning forced removals and refugee arrivals.
