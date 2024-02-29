@@ -1,6 +1,6 @@
 # Visualizations for "Asylum in America, by the Numbers"
 
-<img align="left" width="600" height="350" src="https://github.com/nathanielliganor/static-viz-project/blob/main/Screenshot%202024-02-28%20at%2010.25.11%20PM.png">
+<img align="left" width="900" height="650" src="https://github.com/nathanielliganor/static-viz-project/blob/main/Screenshot%202024-02-28%20at%2010.25.11%20PM.png">
 
 <br />
 
