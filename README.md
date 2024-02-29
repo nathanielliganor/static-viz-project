@@ -1,6 +1,6 @@
 # Visualizations for "Asylum in America, by the Numbers"
 
-<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202024-01-23%2016.33.02%20-%20a%20waterfall%20with%20clear%20blue%20water%2C%2050%20mm%20photograph.png">
+<img align="left" width="300" height="250" src="https://github.com/nathanielliganor/static-viz-project/blob/main/Screenshot%202024-02-28%20at%2010.25.11%20PM.png">
 
 ## Project Overview
 
