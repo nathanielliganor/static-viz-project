@@ -4,6 +4,8 @@
 
 <br />
 
+
+
 ## Project Overview
 
 This project focuses on enhancing the narrative of "Asylum in America, by the Numbers" through the design and creation of three compelling visualizations. Each visualization aims to encapsulate key data points and trends highlighted in the article, providing readers with an immediate and impactful understanding of the facts presented. The visualizations cover the topics of illegal crossing apprehensions in 2022, historical data on total asylum applications split by status, and immigration patterns concerning forced removals and refugee arrivals.
