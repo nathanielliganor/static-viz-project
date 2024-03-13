@@ -24,6 +24,8 @@ This project focuses on enhancing the narrative of "Asylum in America, by the Nu
 
 **Design Process**: The visualization was created using a time series graph, plotting the number of apprehensions from 1960 to 2022. A distinct upward trend is highlighted in 2022, with annotations to emphasize the record-breaking figure. The choice of a time series allows for a clear historical context and immediate visualization of the increase over time.
 
+<img align="left" width="1000" height="650" src="https://github.com/nathanielliganor/static-viz-project/blob/main/images/Screenshot%202024-03-13%20at%203.03.33%20PM.png">
+
 ### 2. Historical Data on Total Asylum Applications Split by Status
 
 **Objective**: Depict the annual number of asylum applications by status (Filed, Granted, Pending) from 2008 to 2022, along with a cumulative total.
