@@ -14,7 +14,7 @@ This project focuses on enhancing the narrative of "Asylum in America, by the Nu
 
 ## Visualization Descriptions
 
-<img align="left" width="600" height="200" src="https://github.com/nathanielliganor/static-viz-project/blob/main/images/Screenshot%202024-03-13%20at%202.50.14%20PM.png">
+<img align="left" width="600" height="400" src="https://github.com/nathanielliganor/static-viz-project/blob/main/images/Screenshot%202024-03-13%20at%202.50.14%20PM.png">
 
 ### 1. Illegal Crossing Apprehensions in 2022
 
