@@ -14,23 +14,21 @@ This project focuses on enhancing the narrative of "Asylum in America, by the Nu
 
 ## Visualization Descriptions
 
-<img align="left" width="1000" height="650" src="https://github.com/nathanielliganor/static-viz-project/blob/main/images/Screenshot%202024-03-13%20at%202.50.14%20PM.png">
-
-#
-
 ### 1. Illegal Crossing Apprehensions in 2022
 
 **Objective**: To depict the significant rise in illegal crossing apprehensions in 2022, marking the highest number since 1960.
 
 **Design Process**: The visualization was created using a time series graph, plotting the number of apprehensions from 1960 to 2022. A distinct upward trend is highlighted in 2022, with annotations to emphasize the record-breaking figure. The choice of a time series allows for a clear historical context and immediate visualization of the increase over time.
 
-<img align="left" width="1000" height="650" src="https://github.com/nathanielliganor/static-viz-project/blob/main/images/Screenshot%202024-03-13%20at%203.03.33%20PM.png">
+<img align="left" width="1000" height="650" src="https://github.com/nathanielliganor/static-viz-project/blob/main/images/Screenshot%202024-03-13%20at%202.50.14%20PM.png">
 
 ### 2. Historical Data on Total Asylum Applications Split by Status
 
 **Objective**: Depict the annual number of asylum applications by status (Filed, Granted, Pending) from 2008 to 2022, along with a cumulative total.
 
 **Design Process**: Transitioning to a multi-line graph, this visualization contrasts the trajectories of applications filed, granted, and pending. An additional line aggregates these categories to show the total number of applications. This format was selected to facilitate comparison across statuses over time, highlighting trends and shifts in asylum application outcomes.
+
+<img align="left" width="1000" height="650" src="https://github.com/nathanielliganor/static-viz-project/blob/main/images/Screenshot%202024-03-13%20at%203.03.33%20PM.png">
 
 ### 3. Forced Removals vs. Refugee Arrivals
 
