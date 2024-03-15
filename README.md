@@ -14,6 +14,8 @@ This project focuses on enhancing the narrative of "Asylum in America, by the Nu
 
 ## Visualization Descriptions
 
+<img align="left" width="1000" height="650" src="https://github.com/nathanielliganor/static-viz-project/blob/main/images/Screenshot%202024-03-14%20at%209.00.04%20PM.png">
+
 ### 1. Illegal Crossing Apprehensions in 2022
 
 **Objective**: To depict the significant rise in illegal crossing apprehensions in 2022, marking the highest number since 1960.
